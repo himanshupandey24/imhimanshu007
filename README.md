@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @imhimanshu007 or Himanshu Pandey
+- 👋 Hi,![wave](https://user-images.githubusercontent.com/42632422/183586056-5c02194f-4455-40a7-8be9-a4dd3ba1f1da.gif)
+ I’m @imhimanshu007 or Himanshu Pandey
 - 👀 I’m learning Full Stack Developement(React JS and Spring Boot).
 - 🌱 I’m currently learning with Scaler Academy (DSA, Problem Solving, System Design, React JS, Spring Boot)
 - 💞️ I’m looking to collaborate on ...

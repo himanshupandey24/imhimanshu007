@@ -8,6 +8,9 @@
 -     Data Engineering
 -     Product Management
 -     Project Building
+-     Udemy Certifications : 
+       Java 8 : https://www.udemy.com/certificate/UC-ded0ab46-4b15-4b85-9f87-cfffecb2b23b
+       Spring Data JPA : https://www.udemy.com/certificate/UC-1c3ab2eb-60b6-440e-8ab0-f25ffc5fdd6c
 - 📫 How to reach me : drop mail on himanshupandey2411@gmail.com
 - 🔗 Connect with me on LinkedIn : https://www.linkedin.com/in/himanshupandey007
 

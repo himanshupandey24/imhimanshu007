@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Himanshu Pandey
 - 👀 I’m Full Stack Developer(React JS, Java and Spring Boot).
 - 🌱 I’m currently doing M.S in Computer Science from Scaler Neovarsity.
--     Course Work Includes :
+     - Scaler Profile Link: https://www.scaler.com/academy/profile/0f33ca25ac21/
+-     Master's Course Work Includes :
      -     Data Structures and Algorithms, Problem Solving
      -     Object Oriented Design, System Design
      -     React JS, Spring Boot

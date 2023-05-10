@@ -15,7 +15,7 @@
 -   Projects:
      - Blog App REST APIs with Spring Boot: https://github.com/imhimanshu007/blog-app-rest-api
      - Ecommerce Backend Using Microservices: https://github.com/imhimanshu007/ecommerce-microservices
--    Contact Me
+-   Contact Me
     - 📫 How to reach me : drop mail on himanshupandey2411@gmail.com
     - 🔗 Connect with me on LinkedIn : https://www.linkedin.com/in/himanshupandey007
 

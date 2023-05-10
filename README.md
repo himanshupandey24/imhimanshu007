@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @imhimanshu007 or Himanshu Pandey
-- 👀 I’m learning Full Stack Developement(React JS and Spring Boot).
+- 👋 Hi, I’m Himanshu Pandey
+- 👀 I’m Full Stack Developer(React JS, Java and Spring Boot).
 - 🌱 I’m currently doing M.S in Computer Science from Scaler Neovarsity.
 -     Course Work Includes :
      -     Data Structures and Algorithms, Problem Solving

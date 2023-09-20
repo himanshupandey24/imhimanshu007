@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Pandey</h1>
 <h3 align="center">Software Development Engineer(BackEnd) working at Probus Smart Things</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imhimanshu007&label=Profile%20views&color=0e75b6&style=flat" alt="imhimanshu007" /> </p>
+
 
 - 💬 Ask me about **Java, Multithreading, Concurrency, SQL, Spring Boot**
 
